@@ -1,4 +1,4 @@
-# searchinfo-test-task
+# Test task made for SearchInfo
 
 ## Project setup
 ```
@@ -20,5 +20,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Icons used by Freepik and Darius Dan

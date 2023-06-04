@@ -13,8 +13,8 @@
   </div>
 </template>
 
-<script lang="ts">
-  import json from '@/json/data.json';
+<script>
+import store from '@/store';
   export default({
     computed: {
       getId() {
@@ -22,8 +22,8 @@
         return typeof id === 'string' ? parseInt(id) : parseInt(id.join())
       },
       getUser(){
-        const id = this.$route.params.id
-        return typeof id === 'string' ? json[parseInt(id) - 1] : json[parseInt(id.join()) - 1]
+        const id = this.getId
+        return store.getters.users [id - 1]
       },
     }
   })

@@ -12,11 +12,12 @@
 </template>
 
 <script lang="ts">
-  import json from '@/json/data.json';
+import store from './store';
+
   export default({
     data() {
       return {
-        users: json
+        users: store.getters.users
       }
     }
   })
