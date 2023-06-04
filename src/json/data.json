@@ -1,0 +1,802 @@
+[
+  {
+    "index": 1,
+    "isActive": true,
+    "name": "Herminia Lee",
+    "company": "ROBOID",
+    "section": "Бухгалтерия",
+    "position": "Менеджер"
+  },
+  {
+    "index": 2,
+    "isActive": true,
+    "name": "Berta Boyer",
+    "company": "ENERSOL",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 3,
+    "isActive": false,
+    "name": "Wendy Smith",
+    "company": "COMTENT",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 4,
+    "isActive": true,
+    "name": "Sophie Keith",
+    "company": "COMTRAIL",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 5,
+    "isActive": true,
+    "name": "Vinson Berger",
+    "company": "OZEAN",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 6,
+    "isActive": false,
+    "name": "Snider Vang",
+    "company": "EXTRAGENE",
+    "section": "Логистика",
+    "position": "Интерн"
+  },
+  {
+    "index": 7,
+    "isActive": false,
+    "name": "Rebekah Wilkerson",
+    "company": "GOKO",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 8,
+    "isActive": false,
+    "name": "Franklin Simon",
+    "company": "DIGIRANG",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 9,
+    "isActive": false,
+    "name": "Esperanza Vance",
+    "company": "ESCHOIR",
+    "section": "Логистика",
+    "position": "Интерн"
+  },
+  {
+    "index": 10,
+    "isActive": false,
+    "name": "Gilda Rocha",
+    "company": "CEPRENE",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 11,
+    "isActive": false,
+    "name": "Edwina Leach",
+    "company": "VITRICOMP",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 12,
+    "isActive": true,
+    "name": "Nicholson Sutton",
+    "company": "CINASTER",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 13,
+    "isActive": false,
+    "name": "Zelma Short",
+    "company": "OLUCORE",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 14,
+    "isActive": true,
+    "name": "Ward Barr",
+    "company": "ISOSURE",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 15,
+    "isActive": true,
+    "name": "Hoffman Rosa",
+    "company": "INSURON",
+    "section": "Бухгалтерия",
+    "position": "Менеджер"
+  },
+  {
+    "index": 16,
+    "isActive": true,
+    "name": "Elisabeth Rios",
+    "company": "ZANILLA",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 17,
+    "isActive": false,
+    "name": "Valarie Bailey",
+    "company": "XYLAR",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 18,
+    "isActive": true,
+    "name": "Prince Mccullough",
+    "company": "ZILLAN",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 19,
+    "isActive": true,
+    "name": "Matthews Robertson",
+    "company": "ACUSAGE",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 20,
+    "isActive": false,
+    "name": "Valencia Cox",
+    "company": "PASTURIA",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 21,
+    "isActive": false,
+    "name": "Pollard Boone",
+    "company": "PODUNK",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 22,
+    "isActive": false,
+    "name": "Buchanan Petersen",
+    "company": "CENTURIA",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 23,
+    "isActive": true,
+    "name": "Marietta Willis",
+    "company": "MUSIX",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 24,
+    "isActive": true,
+    "name": "Boyle Hood",
+    "company": "EXOSWITCH",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 25,
+    "isActive": false,
+    "name": "Rogers Blackburn",
+    "company": "AUTOMON",
+    "section": "Бухгалтерия",
+    "position": "Интерн"
+  },
+  {
+    "index": 26,
+    "isActive": false,
+    "name": "Myrna Stokes",
+    "company": "MAGNINA",
+    "section": "Реклама",
+    "position": "Менеджер"
+  },
+  {
+    "index": 27,
+    "isActive": true,
+    "name": "Vasquez Morgan",
+    "company": "KIOSK",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 28,
+    "isActive": false,
+    "name": "Natalia Gregory",
+    "company": "ACCUPHARM",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 29,
+    "isActive": false,
+    "name": "Castaneda Hinton",
+    "company": "TRASOLA",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 30,
+    "isActive": false,
+    "name": "Lee Huff",
+    "company": "PIVITOL",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 31,
+    "isActive": true,
+    "name": "Evangeline Gross",
+    "company": "SLAMBDA",
+    "section": "IT",
+    "position": "Интерн"
+  },
+  {
+    "index": 32,
+    "isActive": false,
+    "name": "Welch Bond",
+    "company": "GEEKOL",
+    "section": "Реклама",
+    "position": "Менеджер"
+  },
+  {
+    "index": 33,
+    "isActive": false,
+    "name": "Smith Ratliff",
+    "company": "ZIZZLE",
+    "section": "Бухгалтерия",
+    "position": "Менеджер"
+  },
+  {
+    "index": 34,
+    "isActive": true,
+    "name": "Hensley Mccarthy",
+    "company": "BOILICON",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 35,
+    "isActive": true,
+    "name": "Justine Olsen",
+    "company": "VIXO",
+    "section": "Логистика",
+    "position": "Интерн"
+  },
+  {
+    "index": 36,
+    "isActive": false,
+    "name": "Wright Shields",
+    "company": "IPLAX",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 37,
+    "isActive": true,
+    "name": "Shirley Hyde",
+    "company": "GENESYNK",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 38,
+    "isActive": true,
+    "name": "Courtney Bauer",
+    "company": "KAGE",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 39,
+    "isActive": false,
+    "name": "Pittman Love",
+    "company": "ZOXY",
+    "section": "Реклама",
+    "position": "Менеджер"
+  },
+  {
+    "index": 40,
+    "isActive": false,
+    "name": "Merritt Mckee",
+    "company": "FUTURITY",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 41,
+    "isActive": true,
+    "name": "Laurie Bridges",
+    "company": "RETROTEX",
+    "section": "IT",
+    "position": "Интерн"
+  },
+  {
+    "index": 42,
+    "isActive": false,
+    "name": "Kelley Alford",
+    "company": "KINDALOO",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 43,
+    "isActive": false,
+    "name": "Lambert Byers",
+    "company": "TROPOLIS",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 44,
+    "isActive": false,
+    "name": "Hatfield Rich",
+    "company": "QUINTITY",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 45,
+    "isActive": false,
+    "name": "Karla Owen",
+    "company": "ZAGGLE",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 46,
+    "isActive": false,
+    "name": "Robbins Copeland",
+    "company": "SKYPLEX",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 47,
+    "isActive": true,
+    "name": "Tonia Elliott",
+    "company": "ZEAM",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 48,
+    "isActive": false,
+    "name": "Macias Eaton",
+    "company": "TERRAGO",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 49,
+    "isActive": true,
+    "name": "Paul Hopkins",
+    "company": "RECRITUBE",
+    "section": "IT",
+    "position": "Интерн"
+  },
+  {
+    "index": 50,
+    "isActive": false,
+    "name": "Pauline Camacho",
+    "company": "VERTON",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 51,
+    "isActive": true,
+    "name": "Shields Taylor",
+    "company": "SEALOUD",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 52,
+    "isActive": false,
+    "name": "Lila Peters",
+    "company": "ACCIDENCY",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 53,
+    "isActive": true,
+    "name": "Eula Steele",
+    "company": "FUELTON",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 54,
+    "isActive": true,
+    "name": "Hannah Gonzales",
+    "company": "PURIA",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 55,
+    "isActive": true,
+    "name": "Gail Reed",
+    "company": "ORBIN",
+    "section": "IT",
+    "position": "Интерн"
+  },
+  {
+    "index": 56,
+    "isActive": true,
+    "name": "Duran Wall",
+    "company": "DANJA",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 57,
+    "isActive": true,
+    "name": "Dean Whitley",
+    "company": "IMKAN",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 58,
+    "isActive": false,
+    "name": "Ruiz Abbott",
+    "company": "ZENTIX",
+    "section": "Бухгалтерия",
+    "position": "Интерн"
+  },
+  {
+    "index": 59,
+    "isActive": false,
+    "name": "Porter Snyder",
+    "company": "PLUTORQUE",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 60,
+    "isActive": false,
+    "name": "Donovan Mosley",
+    "company": "ICOLOGY",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 61,
+    "isActive": true,
+    "name": "Dixon Munoz",
+    "company": "EZENTIA",
+    "section": "Реклама",
+    "position": "Менеджер"
+  },
+  {
+    "index": 62,
+    "isActive": false,
+    "name": "King Reynolds",
+    "company": "FARMEX",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 63,
+    "isActive": false,
+    "name": "Sheila Osborne",
+    "company": "AQUAZURE",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 64,
+    "isActive": false,
+    "name": "Gilliam Bernard",
+    "company": "URBANSHEE",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 65,
+    "isActive": true,
+    "name": "Day Turner",
+    "company": "COMTRACT",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 66,
+    "isActive": false,
+    "name": "Beach Orr",
+    "company": "BOLAX",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 67,
+    "isActive": true,
+    "name": "Fry Hopper",
+    "company": "BUZZWORKS",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 68,
+    "isActive": false,
+    "name": "Simon Walsh",
+    "company": "POLARAX",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 69,
+    "isActive": false,
+    "name": "Marissa Bolton",
+    "company": "EXOSPEED",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 70,
+    "isActive": false,
+    "name": "Ana Sears",
+    "company": "UNI",
+    "section": "Логистика",
+    "position": "Работник"
+  },
+  {
+    "index": 71,
+    "isActive": false,
+    "name": "Janell Foster",
+    "company": "TELEPARK",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 72,
+    "isActive": false,
+    "name": "Humphrey Ryan",
+    "company": "MICRONAUT",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 73,
+    "isActive": false,
+    "name": "Tracy Hoffman",
+    "company": "IDETICA",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 74,
+    "isActive": true,
+    "name": "Ware Mcgee",
+    "company": "HANDSHAKE",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 75,
+    "isActive": false,
+    "name": "Vonda Shepard",
+    "company": "AQUAFIRE",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 76,
+    "isActive": true,
+    "name": "Harding Contreras",
+    "company": "MIRACULA",
+    "section": "Бухгалтерия",
+    "position": "Интерн"
+  },
+  {
+    "index": 77,
+    "isActive": true,
+    "name": "Kathrine Bentley",
+    "company": "ZOINAGE",
+    "section": "Реклама",
+    "position": "Менеджер"
+  },
+  {
+    "index": 78,
+    "isActive": false,
+    "name": "Haynes Sexton",
+    "company": "BOILCAT",
+    "section": "Реклама",
+    "position": "Менеджер"
+  },
+  {
+    "index": 79,
+    "isActive": true,
+    "name": "Ronda Frank",
+    "company": "LINGOAGE",
+    "section": "Реклама",
+    "position": "Менеджер"
+  },
+  {
+    "index": 80,
+    "isActive": true,
+    "name": "Maria Summers",
+    "company": "PROXSOFT",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 81,
+    "isActive": false,
+    "name": "Sasha Frazier",
+    "company": "ULTRIMAX",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 82,
+    "isActive": false,
+    "name": "Rhoda Weaver",
+    "company": "COMVENE",
+    "section": "Реклама",
+    "position": "Интерн"
+  },
+  {
+    "index": 83,
+    "isActive": true,
+    "name": "Tammie Webster",
+    "company": "ZORK",
+    "section": "Бухгалтерия",
+    "position": "Менеджер"
+  },
+  {
+    "index": 84,
+    "isActive": false,
+    "name": "Sandy Flowers",
+    "company": "ZIDOX",
+    "section": "IT",
+    "position": "Интерн"
+  },
+  {
+    "index": 85,
+    "isActive": false,
+    "name": "Sonya Singleton",
+    "company": "ZOARERE",
+    "section": "Реклама",
+    "position": "Работник"
+  },
+  {
+    "index": 86,
+    "isActive": false,
+    "name": "Riley Emerson",
+    "company": "FRENEX",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 87,
+    "isActive": true,
+    "name": "Owen Goodwin",
+    "company": "ANIVET",
+    "section": "IT",
+    "position": "Менеджер"
+  },
+  {
+    "index": 88,
+    "isActive": false,
+    "name": "Ada Whitfield",
+    "company": "GLUKGLUK",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 89,
+    "isActive": true,
+    "name": "Clark Rush",
+    "company": "QUALITERN",
+    "section": "Логистика",
+    "position": "Интерн"
+  },
+  {
+    "index": 90,
+    "isActive": false,
+    "name": "Rush Bartlett",
+    "company": "ZENTRY",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 91,
+    "isActive": false,
+    "name": "Lawrence Scott",
+    "company": "YOGASM",
+    "section": "Бухгалтерия",
+    "position": "Интерн"
+  },
+  {
+    "index": 92,
+    "isActive": true,
+    "name": "Walters Parks",
+    "company": "SENMEI",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 93,
+    "isActive": true,
+    "name": "Sanchez Chen",
+    "company": "IMMUNICS",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 94,
+    "isActive": true,
+    "name": "Morgan Sandoval",
+    "company": "ACRUEX",
+    "section": "Бухгалтерия",
+    "position": "Интерн"
+  },
+  {
+    "index": 95,
+    "isActive": false,
+    "name": "Marina Ruiz",
+    "company": "SQUISH",
+    "section": "Бухгалтерия",
+    "position": "Менеджер"
+  },
+  {
+    "index": 96,
+    "isActive": false,
+    "name": "Johnston Figueroa",
+    "company": "DIGIFAD",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 97,
+    "isActive": true,
+    "name": "Cleo Wallace",
+    "company": "SPRINGBEE",
+    "section": "Бухгалтерия",
+    "position": "Работник"
+  },
+  {
+    "index": 98,
+    "isActive": true,
+    "name": "Estela Herrera",
+    "company": "ZILCH",
+    "section": "Логистика",
+    "position": "Менеджер"
+  },
+  {
+    "index": 99,
+    "isActive": true,
+    "name": "Meagan Dennis",
+    "company": "OTHERSIDE",
+    "section": "IT",
+    "position": "Работник"
+  },
+  {
+    "index": 100,
+    "isActive": true,
+    "name": "Kline William",
+    "company": "LUDAK",
+    "section": "Реклама",
+    "position": "Менеджер"
+  }
+]
